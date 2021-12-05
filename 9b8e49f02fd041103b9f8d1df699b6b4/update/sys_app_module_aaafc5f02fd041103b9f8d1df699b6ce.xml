@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish List">2aafc5f02fd041103b9f8d1df699b6ca</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Wish Item</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-05 19:42:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aaafc5f02fd041103b9f8d1df699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Item</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_727313_wish_list">9b8e49f02fd041103b9f8d1df699b6b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">9b8e49f02fd041103b9f8d1df699b6b4</sys_scope>
+        <sys_update_name>sys_app_module_aaafc5f02fd041103b9f8d1df699b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-05 19:42:16</sys_updated_on>
+        <timeline_page/>
+        <title>Wish Item</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

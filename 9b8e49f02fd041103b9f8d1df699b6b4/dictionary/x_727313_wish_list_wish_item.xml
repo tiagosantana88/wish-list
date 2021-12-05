@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wish Item" max_length="40" name="x_727313_wish_list_wish_item" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Item" max_length="125" name="item" type="string"/>
+    </element>
+</database>
