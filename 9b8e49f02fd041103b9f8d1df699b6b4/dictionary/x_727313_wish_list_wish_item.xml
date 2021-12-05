@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Wish Item" max_length="40" name="x_727313_wish_list_wish_item" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Display name" max_length="300" name="display_name" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="125" name="item" type="string"/>
         <element label="Quality" max_length="40" name="quality" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester" max_length="40" name="requester" type="string"/>
         <element label="URL" max_length="1024" name="url" type="url"/>
     </element>
 </database>
